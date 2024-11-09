@@ -4,7 +4,9 @@ Arewa Data Science Python Programming for data science cohort
 
 My name is Amina Aminu Umar, a graduate of computer Science from Ahamdu Bello University zaria.
 
--number1 
--number2
-
-
+- one
+- two
+  - one
+  - two
+- threwe
+- 
